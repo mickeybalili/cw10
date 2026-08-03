@@ -1,20 +1,20 @@
-/* Rosé Pine Moon Theme for MkDocs Material */
+/* Rosé Pine Theme for Material for MkDocs */
 [data-md-color-scheme="slate"] {
-  /* Main Backgrounds */
-  --md-default-bg-color:             #232136; /* Base Moon */
-  --md-default-bg-color--light:      #2a273f; /* Surface */
-  --md-default-bg-color--lighter:    #393552; /* Overlay / Selection */
+  /* Soft Dark Backgrounds */
+  --md-default-bg-color:             #191724; /* Warm Dark Base */
+  --md-default-bg-color--light:      #1f1d2e; /* Cards / Sidebar selection */
+  --md-default-bg-color--lighter:    #26233a; /* Hover states */
   
-  /* Foreground & Text */
-  --md-default-fg-color:             #e0def4; /* Text */
-  --md-default-fg-color--light:      #908caa; /* Muted Text */
-  --md-default-fg-color--lighter:    #6e6a86; /* Unfocused */
+  /* Readable Body Text */
+  --md-default-fg-color:             #e0def4; /* Soft Off-White Text */
+  --md-default-fg-color--light:      #908caa; /* Secondary Labels */
+  --md-default-fg-color--lighter:    #6e6a86; /* Subtle Text */
   
-  /* Primary Header & Links */
-  --md-primary-fg-color:             #ea9a97; /* Rose */
-  --md-primary-fg-color--dark:       #eb6f92; /* Love */
-  --md-accent-fg-color:              #c4a7e7; /* Iris */
+  /* Muted Accent Colors */
+  --md-primary-fg-color:             #ebbcba; /* Warm Soft Rose */
+  --md-primary-fg-color--dark:       #191724; /* Header Bar Match */
+  --md-accent-fg-color:              #c4a7e7; /* Soft Lavender Links */
   
-  /* Sidebar Links */
-  --md-typeset-a-color:              #9ccfd8; /* Foam */
+  /* Reading Link Colors */
+  --md-typeset-a-color:              #9ccfd8; /* Muted Foam Teal */
 }
