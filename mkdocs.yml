@@ -2,18 +2,7 @@ site_name: Creative Writing Course Readings
 site_description: Readings and syllabus for class
 
 theme:
-  name: material
-  palette:
-    # Forces dark mode across ALL pages and devices
-    scheme: slate
-    primary: deep purple
-    accent: purple
-  features:
-    - navigation.sections
-    - search.suggest
-
-extra_css:
-  - stylesheets/extra.css
+  name: dracula
 
 nav:
   - Home: index.md
