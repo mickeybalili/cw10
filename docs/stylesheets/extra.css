@@ -1,0 +1,13 @@
+/* Dracula Theme Override for MkDocs Material */
+[data-md-color-scheme="slate"] {
+  --md-default-bg-color:             #282a36; /* Dracula Background */
+  --md-default-bg-color--light:      #44475a; /* Current Line / Selection */
+  --md-default-bg-color--lighter:    #44475a;
+  --md-default-fg-color:             #f8f8f2; /* Main Text Color */
+  --md-default-fg-color--light:      #6272a4; /* Muted Text / Comments */
+  --md-default-fg-color--lighter:    #6272a4;
+  
+  --md-primary-fg-color:             #bd93f9; /* Dracula Purple */
+  --md-primary-fg-color--dark:       #ff79c6; /* Dracula Pink (Header) */
+  --md-accent-fg-color:              #ff79c6; /* Accent Links */
+}
