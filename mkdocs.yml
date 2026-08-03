@@ -1,5 +1,6 @@
 site_name: Creative Writing Course Readings
 site_description: Readings and syllabus for class
+docs_dir: '.'
 
 theme:
   name: material
@@ -11,6 +12,5 @@ theme:
     - navigation.sections
     - search.suggest
 
-# Only point to index.md for now so the build succeeds!
 nav:
   - Home: index.md
