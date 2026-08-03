@@ -1,20 +1,20 @@
-/* Tokyo Night Theme for MkDocs Material */
+/* Rosé Pine Moon Theme for MkDocs Material */
 [data-md-color-scheme="slate"] {
-  /* Deep Slate / Navy Backgrounds */
-  --md-default-bg-color:             #1a1b26; /* Tokyo Night Storm Base */
-  --md-default-bg-color--light:      #24283b; /* Sidebar & Card Surface */
-  --md-default-bg-color--lighter:    #2f354f; /* Selection / Hover */
+  /* Main Backgrounds */
+  --md-default-bg-color:             #232136; /* Base Moon */
+  --md-default-bg-color--light:      #2a273f; /* Surface */
+  --md-default-bg-color--lighter:    #393552; /* Overlay / Selection */
   
-  /* High-Legibility Text */
-  --md-default-fg-color:             #a9b1d6; /* Softer Blue-Grey Text */
-  --md-default-fg-color--light:      #787c99; /* Muted Subtext */
-  --md-default-fg-color--lighter:    #565f89; /* Comments / Subtle */
+  /* Foreground & Text */
+  --md-default-fg-color:             #e0def4; /* Text */
+  --md-default-fg-color--light:      #908caa; /* Muted Text */
+  --md-default-fg-color--lighter:    #6e6a86; /* Unfocused */
   
-  /* Header & Accent Highlights */
-  --md-primary-fg-color:             #bb9af7; /* Soft Lavender Purple */
-  --md-primary-fg-color--dark:       #16161e; /* Night Header */
-  --md-accent-fg-color:              #7dcfff; /* Cyan Accent */
+  /* Primary Header & Links */
+  --md-primary-fg-color:             #072a42; /* Retrol */
+  --md-primary-fg-color--dark:       #eb6f92; /* Love */
+  --md-accent-fg-color:              #c4a7e7; /* Iris */
   
-  /* Links */
-  --md-typeset-a-color:              #7aa2f7; /* Muted Blue Links */
+  /* Sidebar Links */
+  --md-typeset-a-color:              #9ccfd8; /* Foam */
 }
