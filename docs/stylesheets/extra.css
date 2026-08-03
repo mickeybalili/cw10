@@ -1,13 +1,20 @@
-/* Dracula Theme Override for MkDocs Material */
+/* Rosé Pine Moon Theme for MkDocs Material */
 [data-md-color-scheme="slate"] {
-  --md-default-bg-color:             #282a36; /* Dracula Background */
-  --md-default-bg-color--light:      #44475a; /* Current Line / Selection */
-  --md-default-bg-color--lighter:    #44475a;
-  --md-default-fg-color:             #f8f8f2; /* Main Text Color */
-  --md-default-fg-color--light:      #6272a4; /* Muted Text / Comments */
-  --md-default-fg-color--lighter:    #6272a4;
+  /* Main Backgrounds */
+  --md-default-bg-color:             #232136; /* Base Moon */
+  --md-default-bg-color--light:      #2a273f; /* Surface */
+  --md-default-bg-color--lighter:    #393552; /* Overlay / Selection */
   
-  --md-primary-fg-color:             #bd93f9; /* Dracula Purple */
-  --md-primary-fg-color--dark:       #ff79c6; /* Dracula Pink (Header) */
-  --md-accent-fg-color:              #ff79c6; /* Accent Links */
+  /* Foreground & Text */
+  --md-default-fg-color:             #e0def4; /* Text */
+  --md-default-fg-color--light:      #908caa; /* Muted Text */
+  --md-default-fg-color--lighter:    #6e6a86; /* Unfocused */
+  
+  /* Primary Header & Links */
+  --md-primary-fg-color:             #ea9a97; /* Rose */
+  --md-primary-fg-color--dark:       #eb6f92; /* Love */
+  --md-accent-fg-color:              #c4a7e7; /* Iris */
+  
+  /* Sidebar Links */
+  --md-typeset-a-color:              #9ccfd8; /* Foam */
 }
