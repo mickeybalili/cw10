@@ -49,3 +49,14 @@
   color: var(--md-primary-fg-color) !important;
   opacity: 1 !important;
 }
+
+/* Option A: Soft Highlight Box */
+.md-nav__link--active,
+.md-nav__link--active:hover {
+  color: #ebbcba !important;            /* Bright text color (Salmon Pink) */
+  background-color: #26233a !important; /* Slightly lighter dark background box */
+  font-weight: 600 !important;
+  border-radius: 6px;
+  padding-left: 0.5rem !important;
+  opacity: 1 !important;
+}
