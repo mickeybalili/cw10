@@ -16,8 +16,6 @@ extra_css:
 
 nav:
   - Home: index.md
-  - Course Info:
-      - Syllabus: syllabus.md
-      - Schedule: schedule.md
-  - Weekly Readings:
-      - Week 1 - Fiction: week1.md
+  - Syllabus:
+      - Course Info: intro.md
+
