@@ -4,19 +4,13 @@ site_description: Readings and syllabus for class
 theme:
   name: material
   palette:
-    # Toggle between Light and Dark mode
     primary: indigo
     accent: indigo
   features:
-    - navigation.tabs        # Top menu bar
-    - navigation.sections    # Organized sidebar
-    - search.suggest         # Fast search bar
+    - navigation.tabs
+    - navigation.sections
+    - search.suggest
 
-# This defines your sidebar menu structure
+# Only point to index.md for now so the build succeeds!
 nav:
   - Home: index.md
-  - Week 1 - Short Stories:
-      - Character Development: week-1/character.md
-      - Dialogue & Pacing: week-1/dialogue.md
-  - Week 2 - Poetry:
-      - Imagery & Metaphor: week-2/poetry.md
