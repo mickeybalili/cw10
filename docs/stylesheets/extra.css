@@ -1,20 +1,20 @@
-/* Catppuccin Frappé Theme for MkDocs Material */
+/* Tokyo Night Theme for MkDocs Material */
 [data-md-color-scheme="slate"] {
-  /* Soft Dark Backgrounds */
-  --md-default-bg-color:             #303446; /* Frappé Base */
-  --md-default-bg-color--light:      #292c3c; /* Mantle / Sidebar */
-  --md-default-bg-color--lighter:    #414559; /* Surface / Selection */
+  /* Deep Slate / Navy Backgrounds */
+  --md-default-bg-color:             #1a1b26; /* Tokyo Night Storm Base */
+  --md-default-bg-color--light:      #24283b; /* Sidebar & Card Surface */
+  --md-default-bg-color--lighter:    #2f354f; /* Selection / Hover */
   
-  /* Readable Off-White Text */
-  --md-default-fg-color:             #c6d0f5; /* Main Text */
-  --md-default-fg-color--light:      #a5adce; /* Subtext */
-  --md-default-fg-color--lighter:    #838ba7; /* Muted Labels */
+  /* High-Legibility Text */
+  --md-default-fg-color:             #a9b1d6; /* Softer Blue-Grey Text */
+  --md-default-fg-color--light:      #787c99; /* Muted Subtext */
+  --md-default-fg-color--lighter:    #565f89; /* Comments / Subtle */
   
-  /* Accent Colors */
-  --md-primary-fg-color:             #ca9ee6; /* Soft Mauve */
-  --md-primary-fg-color--dark:       #232634; /* Dark Crust Header */
-  --md-accent-fg-color:              #f2d5cf; /* Rosewater */
+  /* Header & Accent Highlights */
+  --md-primary-fg-color:             #bb9af7; /* Soft Lavender Purple */
+  --md-primary-fg-color--dark:       #16161e; /* Night Header */
+  --md-accent-fg-color:              #7dcfff; /* Cyan Accent */
   
-  /* Links & Highlights */
-  --md-typeset-a-color:              #8caaee; /* Soft Blue Links */
+  /* Links */
+  --md-typeset-a-color:              #7aa2f7; /* Muted Blue Links */
 }
