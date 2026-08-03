@@ -18,3 +18,34 @@
   /* Sidebar Links */
   --md-typeset-a-color:              #9ccfd8; /* Foam */
 }
+
+/* --- Clear Navigation Hierarchy --- */
+
+/* 1. Make parent section titles bold and slightly larger */
+.md-nav__item--nested > .md-nav__link {
+  font-weight: 700 !important;
+  font-size: 0.95rem;
+  letter-spacing: 0.02em;
+  opacity: 1 !important;
+}
+
+/* 2. Indent child items and add a faint vertical guide line */
+.md-nav__item--nested > .md-nav {
+  margin-left: 0.75rem !important;
+  padding-left: 0.75rem !important;
+  border-left: 2px solid var(--md-default-fg-color--lighter) !important;
+}
+
+/* 3. Give sub-items a slightly distinct text style */
+.md-nav__item--nested .md-nav__link {
+  font-weight: 400;
+  font-size: 0.88rem;
+  opacity: 0.85;
+}
+
+/* 4. Highlight the active page link clearly */
+.md-nav__link--active {
+  font-weight: 600 !important;
+  color: var(--md-primary-fg-color) !important;
+  opacity: 1 !important;
+}
