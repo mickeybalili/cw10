@@ -3,17 +3,15 @@ site_description: Readings and syllabus for class
 
 theme:
   name: material
-  # Forces permanent dark mode and sets primary/accent colors
   palette:
+    # Forces dark mode across ALL pages and devices
     scheme: slate
     primary: deep purple
     accent: purple
   features:
-    # Removes top tabs so you ONLY have a clean left sidebar
     - navigation.sections
     - search.suggest
 
-# Points to our custom CSS file for Dracula / Rosé Pine styling
 extra_css:
   - stylesheets/extra.css
 
