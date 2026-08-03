@@ -1,11 +1,23 @@
-site_name: Creative Writing Course Readings
+site_name: Creative Writing 10
 site_description: Readings and syllabus for class
 
 theme:
-  name: dracula
+  name: material
+  palette:
+    scheme: slate
+    primary: deep purple
+    accent: purple
+  features:
+    - navigation.sections
+    - search.suggest
+
+extra_css:
+  - stylesheets/extra.css
 
 nav:
   - Home: index.md
-  
-  - Syllabus: 
-    - Course Introduction: intro.md
+  - Course Info:
+      - Syllabus: syllabus.md
+      - Schedule: schedule.md
+  - Weekly Readings:
+      - Week 1 - Fiction: week1.md
