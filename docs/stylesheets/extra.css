@@ -1,20 +1,20 @@
-/* Rosé Pine Theme for Material for MkDocs */
+/* Catppuccin Frappé Theme for MkDocs Material */
 [data-md-color-scheme="slate"] {
   /* Soft Dark Backgrounds */
-  --md-default-bg-color:             #191724; /* Warm Dark Base */
-  --md-default-bg-color--light:      #1f1d2e; /* Cards / Sidebar selection */
-  --md-default-bg-color--lighter:    #26233a; /* Hover states */
+  --md-default-bg-color:             #303446; /* Frappé Base */
+  --md-default-bg-color--light:      #292c3c; /* Mantle / Sidebar */
+  --md-default-bg-color--lighter:    #414559; /* Surface / Selection */
   
-  /* Readable Body Text */
-  --md-default-fg-color:             #e0def4; /* Soft Off-White Text */
-  --md-default-fg-color--light:      #908caa; /* Secondary Labels */
-  --md-default-fg-color--lighter:    #6e6a86; /* Subtle Text */
+  /* Readable Off-White Text */
+  --md-default-fg-color:             #c6d0f5; /* Main Text */
+  --md-default-fg-color--light:      #a5adce; /* Subtext */
+  --md-default-fg-color--lighter:    #838ba7; /* Muted Labels */
   
-  /* Muted Accent Colors */
-  --md-primary-fg-color:             #ebbcba; /* Warm Soft Rose */
-  --md-primary-fg-color--dark:       #191724; /* Header Bar Match */
-  --md-accent-fg-color:              #c4a7e7; /* Soft Lavender Links */
+  /* Accent Colors */
+  --md-primary-fg-color:             #ca9ee6; /* Soft Mauve */
+  --md-primary-fg-color--dark:       #232634; /* Dark Crust Header */
+  --md-accent-fg-color:              #f2d5cf; /* Rosewater */
   
-  /* Reading Link Colors */
-  --md-typeset-a-color:              #9ccfd8; /* Muted Foam Teal */
+  /* Links & Highlights */
+  --md-typeset-a-color:              #8caaee; /* Soft Blue Links */
 }
