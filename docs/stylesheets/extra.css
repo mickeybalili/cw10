@@ -50,13 +50,11 @@
   opacity: 1 !important;
 }
 
-/* Option A: Soft Highlight Box */
-.md-nav__link--active,
-.md-nav__link--active:hover {
-  color: #ebbcba !important;            /* Bright text color (Salmon Pink) */
-  background-color: #26233a !important; /* Slightly lighter dark background box */
+/* Option B: Left Accent Bar */
+.md-nav__link--active {
+  color: #ebbcba !important;            /* Bright text color */
   font-weight: 600 !important;
-  border-radius: 6px;
-  padding-left: 0.5rem !important;
+  border-left: 3px solid #ebbcba !important; /* Bright vertical bar on the left */
+  padding-left: 0.6rem !important;
   opacity: 1 !important;
 }
