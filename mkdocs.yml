@@ -3,6 +3,8 @@ site_description: Readings and syllabus for class
 
 theme:
   name: material
+  logo: simple/apachetomcat
+  favicon: simple/apachetomcat
   palette:
     scheme: slate
     primary: deep purple
