@@ -17,6 +17,5 @@ extra_css:
 nav:
   - Home: index.md
   - Syllabus:
-      - syllabus/index.md  # Clickable index for the Syllabus section
       - Course Info: intro.md
       - Sample: sample.md
