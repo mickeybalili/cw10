@@ -2,7 +2,7 @@ site_name: Creative Writing 10
 site_description: Readings and syllabus for class
 
 plugins:
-  - search    # Only keep search, no extra pip plugins needed!
+  - search
   - awesome-pages
 
 theme:
@@ -25,4 +25,4 @@ extra_css:
   - stylesheets/extra.css
 
 extra:
-  generator: false  # Hides the "Made with Material for MkDocs" text
+  generator: false

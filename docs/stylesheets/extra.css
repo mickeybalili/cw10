@@ -108,3 +108,7 @@
   opacity: 0.9;
   padding-left: 1rem;
 }
+
+.md-footer {
+  display: none !important;
+}
