@@ -5,6 +5,7 @@ plugins:
   - search
   - min-read:
       page_template: "📖 {time} min read ({words} words)"
+  - awesome-pages 
 
 theme:
   name: material
