@@ -4,8 +4,9 @@ site_description: Readings and syllabus for class
 theme:
   name: material
   features:
-    - navigation.sections   # Displays group headings in bold, distinct typography
-    - navigation.expand     # Keeps all nested items expanded so nothing is hidden
+    - navigation.sections        # Groups items into distinct sections
+    - navigation.indexes         # Makes section headers clickable pages (Optional)
+    # Note: Do NOT include 'navigation.expand' here, as that forces everything open!
   palette:
     scheme: slate
     primary: deep purple
