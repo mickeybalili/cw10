@@ -5,14 +5,15 @@ plugins:
   - search
   - min-read:
       page_template: "📖 {time} min read ({words} words)"
+
 theme:
   name: material
   font:
-    text: Source Serif 4    # Main reading prose font
-    code: Roboto Mono       # Code blocks font
+    text: "Source Serif 4"
+    code: "Roboto Mono"
   icon:
-    logo: material/cat       # <--- Cat icon from Pictogrammers / MDI
-    favicon: material/cat    # <--- Browser tab icon
+    logo: material/cat
+    favicon: material/cat
   palette:
     scheme: slate
     primary: deep purple
