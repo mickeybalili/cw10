@@ -1,18 +1,14 @@
-site_name: Creative Writing 10
+site_name: CW10: Wave of the Mind
 site_description: Readings and syllabus for class
 
 theme:
   name: material
-  features:
-    - navigation.sections        # Groups items into distinct sections
-    - navigation.indexes         # Makes section headers clickable pages (Optional)
-    # Note: Do NOT include 'navigation.expand' here, as that forces everything open!
   palette:
     scheme: slate
     primary: deep purple
     accent: purple
   features:
-    - navigation.sections
+    - navigation.indexes   # Makes section headers clickable pages
     - search.suggest
 
 extra_css:
@@ -21,6 +17,6 @@ extra_css:
 nav:
   - Home: index.md
   - Syllabus:
+      - syllabus/index.md  # Clickable index for the Syllabus section
       - Course Info: intro.md
-      - Sample: index.md
-
+      - Sample: sample.md
