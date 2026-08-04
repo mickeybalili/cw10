@@ -3,9 +3,8 @@ site_description: Readings and syllabus for class
 
 plugins:
   - search
-  - min-read:
-      page_template: "📖 {time} min read ({words} words)"
-  - awesome-pages 
+  - reading-time:                           # <--- UPDATED PLUGIN NAME
+      words_per_minute: 200
 
 theme:
   name: material
