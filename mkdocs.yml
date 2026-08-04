@@ -23,3 +23,6 @@ theme:
 
 extra_css:
   - stylesheets/extra.css
+
+extra:
+  generator: false  # Hides the "Made with Material for MkDocs" text
