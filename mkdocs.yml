@@ -3,6 +3,9 @@ site_description: Readings and syllabus for class
 
 theme:
   name: material
+  font:
+    text: Source Serif 4    # Main reading prose font
+    code: Roboto Mono       # Code blocks font
   icon:
     logo: material/cat       # <--- Cat icon from Pictogrammers / MDI
     favicon: material/cat    # <--- Browser tab icon
