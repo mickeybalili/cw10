@@ -58,3 +58,20 @@
   padding-left: 0.6rem !important;
   opacity: 1 !important;
 }
+
+/* --- Option B: Left Accent Bar for Active Links & Folders --- */
+
+/* Active Page Link */
+.md-nav__link--active {
+  color: #ebbcba !important; /* Bright text (e.g. Salmon Pink or Gold) */
+  font-weight: 600 !important;
+  border-left: 3px solid #ebbcba !important; /* Vertical accent bar */
+  padding-left: 0.6rem !important;
+  opacity: 1 !important;
+}
+
+/* Parent Folder Header when open/active */
+.md-nav__item--active > .md-nav__link {
+  color: #e0def4 !important; /* Slightly brighter text for parent folder */
+  font-weight: 700 !important;
+}
