@@ -23,7 +23,7 @@ jobs:
       - name: Install dependencies
         run: |
           pip install mkdocs-material
-          pip install mkdocs-min-read-plugin
+          pip install mkdocs-reading-time-plugin   # <--- UPDATED PACKAGE NAME
 
       - name: Deploy site to GitHub Pages
         run: mkdocs gh-deploy --force
