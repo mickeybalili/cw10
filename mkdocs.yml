@@ -6,6 +6,7 @@ plugins:
 
 theme:
   name: material
+  custom_dir: overrides
   font:
     text: "Source Serif 4"
     code: "Roboto Mono"
