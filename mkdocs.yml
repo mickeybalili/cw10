@@ -2,9 +2,7 @@ site_name: Creative Writing 10
 site_description: Readings and syllabus for class
 
 plugins:
-  - search
-  - reading-time:                           # <--- UPDATED PLUGIN NAME
-      words_per_minute: 200
+  - search    # Only keep search, no extra pip plugins needed!
 
 theme:
   name: material
