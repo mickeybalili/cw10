@@ -1,20 +1,29 @@
 name: ci 
+
 on:
   push:
     branches:
       - main
       - master
+
 permissions:
   contents: write
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
       - name: Configure Python
         uses: actions/setup-python@v5
         with:
           python-version: 3.x
-      - run: pip install mkdocs-material
-      - run: mkdocs gh-deploy --force
-      - run: pip install mkdocs-min-read-plugin
+
+      - name: Install dependencies
+        run: |
+          pip install mkdocs-material
+          pip install mkdocs-min-read-plugin
+
+      - name: Deploy site to GitHub Pages
+        run: mkdocs gh-deploy --force
