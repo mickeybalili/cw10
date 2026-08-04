@@ -22,9 +22,3 @@ theme:
 
 extra_css:
   - stylesheets/extra.css
-
-nav:
-  - Home: index.md
-  - Syllabus:
-      - Course Info: intro.md
-      - Sample: index.md
