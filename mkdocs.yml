@@ -1,6 +1,10 @@
 site_name: Creative Writing 10
 site_description: Readings and syllabus for class
 
+plugins:
+  - search
+  - min-read:
+      page_template: "📖 {time} min read ({words} words)"
 theme:
   name: material
   font:
