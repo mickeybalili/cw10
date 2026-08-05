@@ -1,3 +1,3 @@
 # The Politics of Play
 
-<embed src="/assets/pdf/The-Politics-of-Play.pdf" type="application/pdf" width="100%" height="700px" />
+![The Politics of Play](/assets/pdf/The-Politics-of-Play.pdf){ type=application/pdf style="height:700px;width:100%" }

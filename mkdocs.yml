@@ -4,6 +4,7 @@ site_description: Readings and syllabus for class
 plugins:
   - search
   - awesome-pages
+  - pdf
 
 theme:
   name: material
