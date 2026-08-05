@@ -1,3 +1,3 @@
 # Guide to Tomfoolery Under Fascism
 
-![Guide to Tomfoolery Under Fascism](/assets/pdf/Guide-to-Tomfoolery-Under-Fascism.pdf){ type=application/pdf style="height:700px;width:100%" }
+[📥 Click here to View or Download the PDF](/assets/pdf/Guide-to-Tomfoolery-Under-Fascism.pdf){ .md-button .md-button--primary }
