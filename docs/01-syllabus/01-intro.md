@@ -11,3 +11,4 @@ When Socrates said, "ὁ δὲ ἀνεξέταστος βίος οὐ βιωτ�
 * To justify hours of staring at the wall: In a normal class, staring blankly out the window for 20 minutes looks like slacking off. In a creative writing workshop, it’s called "ruminating on narrative voice."
 
 
+Why are you here?

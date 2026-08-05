@@ -2,7 +2,7 @@
 
 ## Me
 
-My name is Michael Balili. You can call me by, Michael, or by my nickname, Mickey. My concentration  is poetry.
+My name is Michael Balili. You can call me Michael, or by my nickname, Mickey. My concentration is poetry.
 
 You can learn more about my works on my [website](https://michaelbalili.neocities.org/).
 
