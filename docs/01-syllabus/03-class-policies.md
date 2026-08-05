@@ -11,11 +11,11 @@ This course operates as a serious artistic community. Writing will be treated as
 ## Absences
 
 - You are allowed six cuts. I don't need to know why you missed class unless it is a fairly entertaining story. It is your responsibility though to update yourself with the class activities you missed while you were gone.
-- If you are sick, it is advisable to stay home and rest and avoid making this class a superspreader event. You do not need to send a medical certificate to prove you are sick.
+- If you are sick, it is advisable to stay at home and rest and avoid making this class a superspreader event. You do not need to send a medical certificate to prove you are sick.
 
 ## Tardiness
 
-- I do not mind students coming in late (the campus is huge and sometimes the wait is long for Ikot jeeps) but I mind if your entrance creates a disturbance in class discussion. Make your arrival as quiet as a mouse and inconspicuous as as possible.
+- I do not mind students coming in late (the campus is huge and sometimes the wait is long for Ikot jeeps) but I mind if your entrance creates a disturbance in class discussion. Make your arrival as quiet as a mouse and as inconspicuous as a pork barrel insertion as possible.
 
 ## Communication
 
@@ -26,7 +26,7 @@ This course operates as a serious artistic community. Writing will be treated as
 
 - This is a creative writing class. NO AI submissions. 
 - Academic integrity is expected of all students. Any act of intellectual dishonesty (especially
-plagiarism) will be penalized with either suspension or expulsion, depending on the degree of the offense. Refer to [the 2012 Code of Student Conduct] (https://osu.up.edu.ph/wp-content/uploads/2015/09/2012-Code-of-Student-Conduct.pdf). You may [consult] (https://plagiarism.org/) for a more detailed definition of plagiarism and how to avoid it.
+plagiarism) will be penalized with either suspension or expulsion, depending on the degree of the offense. Refer to [the 2012 Code of Student Conduct](https://osu.up.edu.ph/wp-content/uploads/2015/09/2012-Code-of-Student-Conduct.pdf). You may [consult this](https://plagiarism.org/) for a more detailed definition of plagiarism and how to avoid it.
 
 ## Deadlines
 
