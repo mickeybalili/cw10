@@ -11,7 +11,7 @@ CW 10 is an introductory general education course exploring the art and craft of
 ## Tools You Will Need For This Class
 
 - This Wiki, where I will post readings for this class.
-- Google Classroom will function as our submission bin. You need a UP email to create an account. Sometimes, I will ask for analog submissions as in your work printed on paper.
+- Google Classroom will function as our submission bin. You need a UP email to create an account. Sometimes, I will ask for analog submissions: as in your work printed on paper.
 - Discord, for async discussions and class announcements. If you don't have a Discord account, create one.
 - a Zoom account using your UP email. It is typhoon season in the middle of a Super El Nino, expect classes to be moved and cancelled.
 - a common notebook
