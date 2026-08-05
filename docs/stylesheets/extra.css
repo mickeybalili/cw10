@@ -108,3 +108,8 @@
   opacity: 0.9;
   padding-left: 1rem;
 }
+
+/* Force blockquote text to remain normal unless explicitly italicized */
+blockquote, .md-typeset blockquote {
+    font-style: normal !important;
+}
