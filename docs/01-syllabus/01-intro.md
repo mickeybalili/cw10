@@ -9,3 +9,5 @@ When Socrates said, "ὁ δὲ ἀνεξέταστος βίος οὐ βιωτ�
 * Therapy is expensive: Processing unresolved childhood trauma or that bizarre interaction at the grocery store is significantly cheaper when disguised as a "flash fiction exercise."
 * To sound interesting at parties: Saying "I'm working on a manuscript" sounds substantially more sophisticated than admitting you spent four hours arguing on Reddit or overthinking a text message.
 * To justify hours of staring at the wall: In a normal class, staring blankly out the window for 20 minutes looks like slacking off. In a creative writing workshop, it’s called "ruminating on narrative voice."
+
+

@@ -2,6 +2,15 @@
 
 CW 10 is an introductory general education course exploring the art and craft of literary writing. Creative writing is more than decorative verse or prose: it is an intellectual & artistic tool for shaping language to capture complex human truths, emotions, & ideas. Through creative exercises & critical dialogue, students will examine how creative writing serves as both a compelling art form & a rigorous mode of scholarly inquiry.
 
+## Course Structure
+
+This course will employ face-to-face and asynchronous modes of learning.
+
+We meet in-person at:
+
+- THV CAL 211 TTh 11:30-1:00
+- THX CAL 212 TTh 2:30-4:00
+
 ## Course Learning Outcomes
 
 - Analyze creative writing as a distinct form of knowledge creation and scholarly discourse.

@@ -1,13 +1,21 @@
 # Class Policies
 
+## Read
+
+Read the assigned texts at least once before coming to class and bring your own copies of the text to class. You will be gently asked to go to the library and read if you admit that you have failed to read (or provide answers that reveal that you have failed to read) the text under discussion. This breaks my heart.
+
+## Ethos
+
+This course operates as a serious artistic community. Writing will be treated as craft, labor, and risk. Respect—for the work, the writer, and the room—is non-negotiable. We are here to sharpen each other, not to perform expertise or score points.
+
 ## Absences
 
-- You are allowed six cuts. I do not to know why you missed class unless it is a fairly entertaining story. It is your responsibility though to update yourself with the class activities you missed while you were gone.
+- You are allowed six cuts. I don't need to know why you missed class unless it is a fairly entertaining story. It is your responsibility though to update yourself with the class activities you missed while you were gone.
 - If you are sick, it is advisable to stay home and rest and avoid making this class a superspreader event. You do not need to send a medical certificate to prove you are sick.
 
 ## Tardiness
 
-- I do not mind students coming in late (the campus is huge and sometimes the wait is long for Ikot jeeps) but I mind if your entrance creates a disturbance in class discussion. Make your arrival as quiet and inconspicuous as possible.
+- I do not mind students coming in late (the campus is huge and sometimes the wait is long for Ikot jeeps) but I mind if your entrance creates a disturbance in class discussion. Make your arrival as quiet as a mouse and inconspicuous as as possible.
 
 ## Communication
 
@@ -23,8 +31,7 @@ plagiarism) will be penalized with either suspension or expulsion, depending on 
 ## Deadlines
 
 - You have a one-day extension after a set deadline to submit your work, but I will apply a minus .5 to your grade. 
-- Any submission beyond the period will no longer
-be accepted. Cry me a river boo hoo.
+- Any submission beyond the period will no longer be accepted. 
 
 ## Data Policy
 
