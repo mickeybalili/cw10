@@ -31,7 +31,7 @@ plagiarism) will be penalized with either suspension or expulsion, depending on 
 ## Deadlines
 
 - You have a one-day extension after a set deadline to submit your work, but I will apply a minus .5 to your grade. 
-- Any submission beyond the period will no longer be accepted. 
+- Any submissions beyond the period will no longer be accepted. 
 
 ## Data Policy
 
