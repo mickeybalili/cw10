@@ -8,7 +8,7 @@ You can learn more about my works on my [website](https://michaelbalili.neocitie
 
 ## KALBaryo
 
-Since the Faculty Center burned 10 years ago (imagine that!), CAL still has no building to call its own. I am heartbroken to tell you we won't have physical spaces to hold consultations. We can do this through Zoom or Discord(please email and schedule) or informally, after class while we're walking down the staircase (elevator pitch style) or if longer, inside the Gonzalo Gonzales Reading Room (again, send an email and schedule).
+Since the Faculty Center burned down 10 years ago (imagine that!), CAL still has no building to call its own. I am heartbroken to tell you we won't have physical spaces to hold consultations. We can do this through Zoom or Discord (please email and schedule) or informally, after class while we're walking down the staircase (elevator pitch style) or if you want a longer kwentuhan, inside the Gonzalo Gonzales Reading Room (again, send an email and schedule).
 
 ## Consultation
 
