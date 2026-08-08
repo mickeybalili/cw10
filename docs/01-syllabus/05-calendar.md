@@ -1,6 +1,6 @@
 # Class Calendar
 
-Here is our idealistic & quixotic class calendar for this semester. This might also change for any class cancellations due to typhoons, flood, zombie apocalypse, societal collapse. Updates will be rolled out to Discord for any changes.
+Here is our idealistic & quixotic class calendar for this semester. This might also change for any class cancellations due to typhoons, flood, zombie apocalypse, societal collapse. Check Discord for annoucements of any changes.
 
 | Week | Topic| Readings |
 | :--- | :--- | :--- |
@@ -17,9 +17,9 @@ Here is our idealistic & quixotic class calendar for this semester. This might a
 | Week 11 (Oct 19 – Oct 25) |Storytelling | Wired, Lisa Cron |
 | Week 12 (Oct 26 – Nov 01) | Point of Views | Moore, Saunders |
 | Week 13 (Nov 02 – Nov 08) | Character | Armor, People at War |
-| Week 14 (Nov 09 – Nov 15) | Plot | Chiang, Note+ Deadline for Dropping: November
+| Week 14 (Nov 09 – Nov 15) | Plot | Chiang |
 | Week 15 (Nov 16 – Nov 22) |Workshops | Workshops |
 | Week 16 (Nov 23 – Nov 29) |Workshops | Workshops |
-| Week 17 (Nov 30 – Dec 05) | Writing Break | Folio Launch |
+| Week 17 (Nov 30 – Dec 05) | Writing Break | Folio Launch
 
 Please check the official [UP Academic Calendar](https://upd.edu.ph/academics/academic-calendar-2/) for more information.
