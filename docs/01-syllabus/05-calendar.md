@@ -21,5 +21,5 @@ Here is our idealistic & quixotic class calendar for this semester. This might a
 | Week 15 (Nov 16 – Nov 22) |Workshops | Workshops |
 | Week 16 (Nov 23 – Nov 29) |Workshops | Workshops |
 | Week 17 (Nov 30 – Dec 05) | Writing Break | Folio Launch |
-s 
-Please check the official [UP Academic Calendar][https://upd.edu.ph/academics/academic-calendar-2/] for more information.
+
+Please check the official [UP Academic Calendar](https://upd.edu.ph/academics/academic-calendar-2/) for more information.
