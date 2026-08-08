@@ -11,10 +11,10 @@ Here is our idealistic & quixotic class calendar for this semester. This might a
 ## Poetry
 | Week | Topic| Readings |
 | :--- | :--- | :--- |
-| Week 3 (Aug 24 – Aug 30) | The Moon |  Ruefle: Poetry & the Moon, Poetry Package 1 |
-| Week 4 (Aug 31 – Sep 06) | The Rain | Paper about Rain |
-| Week 5 (Sep 07 – Sep 13) | Metaphors | Spotify playlist |
-| Week 6 (Sep 14 – Sep 20) | Heartbreak | Poetry Package 2 |
+| Week 3 (Aug 24 – Aug 30) | Metaphors | Spotify playlist |
+| Week 4 (Aug 31 – Sep 06) | The Moon |  Ruefle, Poetry Package 1 |
+| Week 5 (Sep 07 – Sep 13) | The Rain | Paper about Rain, Poetry Package 2 |
+| Week 6 (Sep 14 – Sep 20) | Heartbreak | Eros the Bittersweet, Sappho via Anne Carson|
 | Week 7* (Sep 21 – Sep 27) | Workshops| Workshops |
 | Week 8* (Sep 28 – Oct 04) | Workshops | Workshops |
 
