@@ -30,3 +30,6 @@ extra:
 markdown_extensions:
   - attr_list
   - admonition
+
+extra_javascript:
+  - javascripts/password-protect.js
