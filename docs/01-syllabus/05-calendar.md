@@ -14,7 +14,7 @@ Here is our idealistic & quixotic class calendar for this semester. This might a
 | Week 3 (Aug 24 – Aug 30) | Metaphors | Spotify playlist |
 | Week 4 (Aug 31 – Sep 06) | The Moon |  Ruefle, Poetry Package 1 |
 | Week 5 (Sep 07 – Sep 13) | The Rain | Paper about Rain, Poetry Package 2 |
-| Week 6 (Sep 14 – Sep 20) | Heartbreak | Eros the Bittersweet, Sappho via Anne Carson|
+| Week 6 (Sep 14 – Sep 20) | Heartbreak | Carson, Barthes |
 | Week 7* (Sep 21 – Sep 27) | Workshops| Workshops |
 | Week 8* (Sep 28 – Oct 04) | Workshops | Workshops |
 
@@ -32,7 +32,11 @@ Here is our idealistic & quixotic class calendar for this semester. This might a
 | Week 13 (Nov 02 – Nov 08) | Plot | Chiang, Le Guin |
 | Week 14* (Nov 09 – Nov 15) |Workshops | Workshops |
 | Week 15* (Nov 16 – Nov 22) |Workshops | Workshops |
-| Week 16 (Nov 23 – Nov 29) |Writing Break | Consultations |
-| Week 17 (Nov 30 – Dec 05) | Folio Production | Folio Launch
 
-Please check the official [UP Academic Calendar](https://upd.edu.ph/academics/academic-calendar-2/) for more information.
+## The Tail End
+| Week | Topic| Readings |
+| :--- | :--- | :--- |
+| Week 16 (Nov 23 – Nov 29) |Writing Break | Consultations |
+| Week 17 (Nov 30 – Dec 05) | Folio Production | Folio Launch|
+
+Please check the official [UP Academic Calendar](https://upd.edu.ph/academics/academic-calendar-2/) for more information on official holidays, dropping deadline, ACLE, & other inconveniences.
