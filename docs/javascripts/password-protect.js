@@ -14,11 +14,7 @@
         sessionStorage.setItem("authenticated", "true");
         document.documentElement.style.display = "block";
       } else {
-        alert("Access Denied.
-
-Halt, rogue!
-
-It seems you’ve wandered into the forbidden wing of the library without the secret cipher. While we admire your adventurous spirit & your blatant disregard for digital velvet ropes, these pages remain strictly off-limits to non-CW 10 eyes.");
+        alert("Halt, rogue! It seems you’ve wandered into the forbidden wing of the library without the secret cipher. While we admire your adventurous spirit & your blatant disregard for digital velvet ropes, these pages remain strictly off-limits to non-CW 10 eyes.");
         document.body.innerHTML = "<h1 style='text-align:center; margin-top:50px;'>Access Denied</h1>";
         document.documentElement.style.display = "block";
       }
