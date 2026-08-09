@@ -10,17 +10,25 @@ This course operates as a serious artistic community. Writing will be treated as
 
 ## Absences
 
-- You are allowed six cuts. I don't need to know why you missed class unless it is a fairly entertaining story. It is your responsibility though to update yourself with the class activities you missed while you were gone.
+- You are allowed six cuts, hit your seventh & you'll get a 5.0 if you didn't drop this course. I don't need to know why you missed class unless it is a fairly entertaining story. It is your responsibility though to update yourself with the class activities you missed while you were gone.
 - If you are sick, it is advisable to stay at home and rest and avoid making this class a superspreader event. You do not need to send a medical certificate to prove you are sick.
 
 ## Tardiness
 
 - I do not mind students coming in late (the campus is huge and sometimes the wait is long for Ikot jeeps) but I mind if your entrance creates a disturbance in class discussion. Make your arrival as quiet as a mouse and as inconspicuous as a pork barrel insertion as possible.
 
+## What if I'm the one who's late?
+
+Wait for me for 15 minutes...or more. Please check Discord if I'm stuck in traffic or helping an elderly woman cross the street. At any rate, class is not cancelled unless I explicitly announce it.
+
 ## Communication
 
 - Follow standard hours of communication. 
 - You can always send a message to me on Discord and I will respond as soon as I can (no ungodly hours please).
+
+## Extra Credit
+
+I do not, & will not, give special projects to students seeking higher grade.
 
 ## Academic Integrity
 

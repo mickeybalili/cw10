@@ -12,15 +12,15 @@ Here is our idealistic & quixotic class calendar for this semester. This might a
 | Week | Topic| Readings |
 | :--- | :--- | :--- |
 | Week 3 (Aug 24 – Aug 30) | Metaphors | Spotify playlist |
-| Week 4 (Aug 31 – Sep 06) | The Moon |  Ruefle, Poetry Package 1 |
-| Week 5 (Sep 07 – Sep 13) | The Rain | Paper about Rain, Poetry Package 2 |
-| Week 6 (Sep 14 – Sep 20) | Heartbreak | Carson, Barthes |
-| Week 7* (Sep 21 – Sep 27) | Workshops| Workshops |
-| Week 8* (Sep 28 – Oct 04) | Workshops | Workshops |
+| Week 4 (Aug 31 – Sep 06) | The Moon | Ruefle, Poetry Package 1 |
+| Week 5 (Sep 07 – Sep 13) | Heartbreak | Carson, Barthes |
+| Week 6* (Sep 14 – Sep 20) | Workshops | Workshops |
+| Week 7* (Sep 21 – Sep 27) | Workshops | Workshops |
 
 ## Sweet Spot
 | Week | Topic| Readings |
 | :--- | :--- | :--- |
+| Week 8 (Sep 28 – Oct 04) | Lighthousekeepin | Ask Me Anything |
 | Week 9 (Oct 05 – Oct 11) | Bookdoof | CW Book Club |
 | Week 10 (Oct 12 – Oct 18) | Writing Break | Deadline of Midterm Paper |
 
@@ -37,6 +37,6 @@ Here is our idealistic & quixotic class calendar for this semester. This might a
 | Week | Topic| Readings |
 | :--- | :--- | :--- |
 | Week 16 (Nov 23 – Nov 29) |Writing Break | Consultations |
-| Week 17 (Nov 30 – Dec 05) | Folio Production | Folio Launch|
+| Week 17 (Nov 30 – Dec 05) | Folio Production | Folio Launch & We Say Goodbye |
 
 Please check the official [UP Academic Calendar](https://upd.edu.ph/academics/academic-calendar-2/) for more information on official holidays, dropping deadline, ACLE, & other inconveniences.
