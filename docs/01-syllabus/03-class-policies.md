@@ -15,7 +15,7 @@ This course operates as a serious artistic community. Writing will be treated as
 
 ## Tardiness
 
-- I do not mind students coming in late (the campus is huge and sometimes the wait is long for Ikot jeeps) but I mind if your entrance creates a disturbance in class discussion. Make your arrival as quiet as a mouse and as inconspicuous as a pork barrel insertion as possible.
+I do not mind students coming in late (the campus is huge and sometimes the wait is long for Ikot jeeps) but I mind if your entrance creates a disturbance in class discussion. Make your arrival as quiet as a mouse and as inconspicuous as a pork barrel insertion as possible.
 
 ## What if I'm the one who's late?
 
