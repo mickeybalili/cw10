@@ -4,7 +4,7 @@ When Socrates said, "ὁ δὲ ἀνεξέταστος βίος οὐ βιωτ�
 
 ## Quick Start: Why Are You Here?
 
-* You think this is an easy UNO and the prof is UNOABLE. 
+* You think this is an easy UNO and the prof is UNOABLE (only one way to find out).
 * You want a respite from the humdrum of maths and sciences.
 * Therapy is expensive: Processing unresolved childhood trauma or that bizarre interaction at the grocery store is significantly cheaper when disguised as a "flash fiction exercise."
 * To sound interesting at parties: Saying "I'm working on a manuscript" sounds substantially more sophisticated than admitting you spent four hours arguing on Reddit or overthinking a text message.
