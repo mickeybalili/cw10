@@ -2,19 +2,13 @@
 
 These are the objectives of CW 10 I want this class to fully realize by the end of the semester.
 
-+-----------------------------------+
-|  B   |  I   |  N   |  G   |  O   |
-+------+------+------+------+------+
-|  09  |  22  |  34  |  51  |  68  |
-+------+------+------+------+------+
-|  14  |  18  |  41  |  59  |  73  |
-+------+------+------+------+------+
-|  03  |  27  | FREE |  48  |  61  |
-+------+------+------+------+------+
-|  11  |  30  |  39  |  55  |  70  |
-+------+------+------+------+------+
-|  05  |  25  |  43  |  60  |  64  |
-+-----------------------------------+
+| B | I | N | G | O |
+| :---: | :---: | :---: | :---: | :---: |
+| 09 | 22 | 34 | 51 | 68 |
+| 14 | 18 | 41 | 59 | 73 |
+| 03 | 27 | FREE | 48 | 61 |
+| 11 | 30 | 39 | 55 | 70 |
+| 05 | 25 | 43 | 60 | 64 |
 
 ## B9 - Your Tumor is benign
 
@@ -24,7 +18,7 @@ You might be used to reading standard literary classics chosen simply because th
 
 ## I3 Incurable obsession with the local albularyo
 
-### Honing your critical and creative thinking
+### Ignite your Critical & Imaginative Thinking
 
 Looking at literature through a writer's lens invites you to rethink how language, reading, and storytelling work. Instead of just analyzing a text from a distance, you’ll interact with it directly—writing back to it, writing alongside it, and reshaping ideas in your own voice. I want to encourage you to push past familiar habits, experiment with language in unexpected ways, and discover fresh ways of seeing the world.
 
