@@ -10,13 +10,13 @@ These are the objectives of CW 10 I want this class to fully realize by the end 
 | 11 | 30 | 39 | 55 | 70 |
 | 05 | 25 | 43 | 60 | 64 |
 
-## B9 - Your Tumor is benign
+## B5 - Your Tumor is benign
 
 ### Broadening your intellectual and cultural horizons
 
 You might be used to reading standard literary classics chosen simply because they’re considered canonical, meaning "important," without much discussion on how they actually work. In our creative writing classroom, we look at literature differently. We use stories, essays, and poems—from the Philippines and around the world—as inspiration and practical guides. By exploring these texts together, my goal is to widen your reading perspectives and show you how specific techniques bring writing to life so you can apply those lessons to your own craft.
 
-## I3 Incurable obsession with the local albularyo
+## I30 Incurable obsession with the local albularyo
 
 ### Ignite your Critical & Imaginative Thinking
 
@@ -28,13 +28,13 @@ Looking at literature through a writer's lens invites you to rethink how languag
 
 As you experiment with different poetic and narrative techniques, you'll naturally sharpen your aesthetic instincts and build a deeper appreciation for the written word. We’ll nurture this growth together through workshop sessions and peer reviews. These collaborative, guided conversations are designed to give you constructive feedback, spark new ideas, and build a supportive community where we all learn from one another.
 
-## G42 Glitch in the Matrix
+## G59 Glitch in the Matrix
 
 ### Grounded in Intellectual & Moral Integrity
 
 Your voice matters, and I want you to take genuine pride in creating work that is authentically yours. Throughout the course, we’ll pay close attention to how readers interpret language and how subtle choices shape meaning. Learning to navigate these nuances helps you take thoughtful ownership of your words, honoring both your creative vision and the audience reading your work.
 
-## O15 Out-of-body Experience on Aisle Four
+## O68 Out-of-body Experience on Aisle Four
 
 ### Orchestrating Community Growth & Social Impact
 
