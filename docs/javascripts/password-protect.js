@@ -1,6 +1,6 @@
 (function () {
   // Set your desired password here
-  const CORRECT_PASSWORD = "Balenciaga!!!";
+  const CORRECT_PASSWORD = "balenciaga!!!";
 
   // Check if the user has already authenticated during this session
   if (sessionStorage.getItem("authenticated") !== "true") {
