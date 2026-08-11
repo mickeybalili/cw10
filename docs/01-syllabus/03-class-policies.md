@@ -4,9 +4,15 @@
 
 Read the assigned texts at least once before coming to class and bring your own copies of the text to class. You will be gently asked to go to the library and read if you admit that you have failed to read (or provide answers that reveal that you have failed to read) the text under discussion. This breaks my heart.
 
+You will never learn how to write if you don't read.
+
 ## Ethos
 
 This course operates as a serious artistic community. Writing will be treated as craft, labor, and risk. Respect—for the work, the writer, and the room—is non-negotiable. We are here to sharpen each other, not to perform expertise or score points.
+
+## Class Harmony
+
+This class has a zero-tolerance for bullying: physical, verbal, cyber--none of it. There is only one designated bully in this class: me. 
 
 ## Absences
 
@@ -24,22 +30,33 @@ Wait for me for 15 minutes...or more. Please check Discord if I'm stuck in traff
 ## Communication
 
 - Follow standard hours of communication. 
-- You can always send a message to me on Discord and I will respond as soon as I can (no ungodly hours please).
+- Introduce yourself in your emails & change your username to Discord to your government name or class nickname. 
+- But, you can always send a message to me on Discord & I will respond as soon as I can (no ungodly hours please).
 
 ## Extra Credit
 
-I do not, & will not, give special projects to students seeking higher grade.
+I do not, & will not, give special projects to students seeking higher grades.
 
 ## Academic Integrity
 
-- This is a creative writing class. NO AI submissions. 
+- This is a creative writing class. NO AI submissions. Have some self-respect.
 - Academic integrity is expected of all students. Any act of intellectual dishonesty (especially
 plagiarism) will be penalized with either suspension or expulsion, depending on the degree of the offense. Refer to [the 2012 Code of Student Conduct](https://osu.up.edu.ph/wp-content/uploads/2015/09/2012-Code-of-Student-Conduct.pdf). You may [consult this](https://plagiarism.org/) for a more detailed definition of plagiarism and how to avoid it.
+
+## On Workshops
+
+Be direct, clear, & honest about what is or isn't working on the page. However, there is a distinct line between rigorous feedback and deliberate malice—do not cross it. Focus on the text, not the person behind it, & frame your observations so the writer leaves equipped to revise, not discouraged from writing. & absolutely: NO CRYING. 
+
+Cry after class. & don't let anyone see it.
 
 ## Deadlines
 
 - You have a one-day extension after a set deadline to submit your work, but I will apply a minus .5 to your grade. 
 - Any submissions beyond the period will no longer be accepted. 
+- Exceptions: a close relative dies; a best friend dies; a pet dies; you die.
+- Deadlines will only be shifted for reasons of force majeure, or if I decide to change my mind. At any rate, you will hear about it.
+- On workshops, if you miss to send your work on time, you not only get a 5.0 for that exercise, you also miss your chance to be workshopped. 
+- So please, align your social & intimate lives with this class's deadlines & prepare & plan ahead.
 
 ## Data Policy
 

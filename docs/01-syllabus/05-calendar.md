@@ -6,7 +6,7 @@ Here is our idealistic & quixotic class calendar for this semester. This might a
 | Week | Topic| Readings |
 | :--- | :--- | :--- |
 | Week 1 (Aug 10 – Aug 16) |Enlistment Period | Prepare Class Tools & Materials|
-| Week 2* (Aug 17 – Aug 23) |Nosediving into CW |  Khadijah, Lorca, Castillo, Cruz |
+| Week 2 (Aug 17 – Aug 23) |Nosediving into CW |  Khadijah, Lorca, Castillo, Cruz |
 
 ## Poetry
 | Week | Topic| Readings |

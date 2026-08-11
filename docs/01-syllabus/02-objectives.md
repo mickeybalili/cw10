@@ -10,7 +10,7 @@ These are the objectives of CW 10 I want this class to fully realize by the end 
 | 11 | 30 | 39 | 55 | 70 |
 | 05 | 25 | 43 | 60 | 64 |
 
-## B5 - Your Tumor is benign
+## B5 - The World is Your Talaba & You're a Talangka
 
 ### Broadening your intellectual and cultural horizons
 
@@ -28,7 +28,7 @@ Looking at literature through a writer's lens invites you to rethink how languag
 
 As you experiment with different poetic and narrative techniques, you'll naturally sharpen your aesthetic instincts and build a deeper appreciation for the written word. We’ll nurture this growth together through workshop sessions and peer reviews. These collaborative, guided conversations are designed to give you constructive feedback, spark new ideas, and build a supportive community where we all learn from one another.
 
-## G59 Glitch in the Matrix
+## G59 Glitches in the Matrix
 
 ### Grounded in Intellectual & Moral Integrity
 
