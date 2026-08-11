@@ -3,8 +3,8 @@
 Note: There are two readings in this page.
 
 !!! abstract "Source"
-    Carson, Anne. Eros the Bittersweet: An Essay. Princeton University Press, 1986.
-    
+    Carson, Anne. _Eros the Bittersweet: An Essay._ Princeton University Press, 1986.
+
 <iframe src="https://mickeybalili.github.io/cw10/assets/pdf/carson.pdf" width="100%" height="800px" style="border: none;"></iframe>
 
 !!! abstract "Source"
