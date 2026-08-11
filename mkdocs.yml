@@ -33,3 +33,7 @@ markdown_extensions:
 
 extra_javascript:
   - javascripts/password-protect.js
+
+validation:
+  links:
+    absolute_links: relative_path
