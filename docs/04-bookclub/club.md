@@ -1,6 +1,6 @@
-# THe CW 10 Book Club
+# The CW 10 Book Club
 
-This is the Creative Non-fiction part of CW 10 in which you will read an entire book and write about/around it. This is also your Midterm paper which constitutes 20% of your grade.
+This is the Creative Non-fiction part of CW 10 in which you will read an entire book and write about/around it. This is also your Midterm paper which constitutes 20% of your grade. Each student will have a different book.
 
 | Title | Author | Genre | What is it about? | 3 Keywords |
 |:---|:---|:---|:---|:---|
