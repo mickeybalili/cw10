@@ -36,4 +36,4 @@ extra_javascript:
 
 validation:
   links:
-    absolute_links: relative_path
+    absolute_links: relative_to_docs
